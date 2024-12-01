@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Piesa", "Piesa\Piesa.csproj", "{7DA347BF-3030-4F08-816C-7B8317AB1374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shop", "shop\shop.csproj", "{B7F5E42D-A9FA-49C9-AB75-4D20E8350D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA347BF-3030-4F08-816C-7B8317AB1374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA347BF-3030-4F08-816C-7B8317AB1374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA347BF-3030-4F08-816C-7B8317AB1374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA347BF-3030-4F08-816C-7B8317AB1374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F5E42D-A9FA-49C9-AB75-4D20E8350D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F5E42D-A9FA-49C9-AB75-4D20E8350D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F5E42D-A9FA-49C9-AB75-4D20E8350D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F5E42D-A9FA-49C9-AB75-4D20E8350D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F964DB54-BA51-4772-A671-C2407B4D61DC}
+	EndGlobalSection
+EndGlobal
